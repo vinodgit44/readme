@@ -1,6 +1,6 @@
 # readme
 # 💫 About Me:
-- 👋 Hi, I’m suraj chauhan<br>
+- 👋 Hi, I’m Vinod Singh<br>
 - 👀 I’m currently working as Principle Consultant(AI/ML)<br>
 - 🌱 I'm Working On building GenAi based usecases <br>
 - 📫 Drop a mail :envelope_with_arrow: srj.surajchauhan@gmail.com
